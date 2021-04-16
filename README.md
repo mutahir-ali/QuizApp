@@ -136,5 +136,5 @@ You can download the source code [here.](https://codeload.github.com/asadnmalik/
 ---
 
 ## Copyright, Author
-*Copyright 2021*, Asad Naveed Malik, *All rights reserved.*
+*Copyright 2021*, Muhammad Mutahir Ali, *All rights reserved.*
 
