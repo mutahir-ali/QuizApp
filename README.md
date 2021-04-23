@@ -1,6 +1,12 @@
 # A template for an online quiz app.
 ## Overview
 A very simple template for an online quiz for your websites. You can change the questions and answers easily. It also includes an animation for your score.
+In this app we focuus on the concept of Javascript.
+In HTML
+1. We make Result section.
+2. There are question with submit button at the end.
+3. This entire question is a form. In which we take input as a type radio.
+4. We are using bootstrap 4.3.1 tempelate.
 
 
 ## Demo
@@ -121,10 +127,6 @@ form.addEventListener('submit', e => {
 
 And the page will be scrolled to result section when it's displayed.
 
----
-
-## Source Code
-You can download the source code [here.](https://codeload.github.com/asadnmalik/quiz-app/zip/refs/heads/main)
 
 ---
 ## Built With
@@ -132,9 +134,3 @@ You can download the source code [here.](https://codeload.github.com/asadnmalik/
 * HTML
 * Bootstrap
 * Javascript
-
----
-
-## Copyright, Author
-*Copyright 2021*, Muhammad Mutahir Ali, *All rights reserved.*
-
